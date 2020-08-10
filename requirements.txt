@@ -1,0 +1,6 @@
+soundfile
+numpy
+scikit-learn
+pandas
+torch
+umap
